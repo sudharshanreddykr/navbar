@@ -4,7 +4,7 @@ import { CKEditor} from '@ckeditor/ckeditor5-react';
 import ClassicEditor from '@ckeditor/ckeditor5-build-classic';
 
 
-const url ="https://blogapi21.herokuapp.com";
+const url ="https://blogapi11234.herokuapp.com";
 
 class Edit extends Component {
     constructor(props) {
