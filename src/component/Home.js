@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Axios from 'axios';
 import {Link} from 'react-router-dom'
 
-const url ="https://blogapi21.herokuapp.com";
+const url ="https://blogapi11234.herokuapp.com";
 
 class Home extends Component {
 
