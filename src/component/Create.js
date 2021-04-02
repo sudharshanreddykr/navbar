@@ -4,7 +4,7 @@ import ClassicEditor from '@ckeditor/ckeditor5-build-classic';
 import Axios from 'axios';
 
 
-const url ="https://blogapi21.herokuapp.com/";
+const url ="https://blogapi21.herokuapp.com";
 
 class Create extends Component {
 
